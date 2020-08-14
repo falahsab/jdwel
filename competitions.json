@@ -3,12 +3,12 @@
         "comp_id":"10",
         "title_ar":"\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627",
         "title_ar_sub":"",
-        "jdwel_slug":"uefa-champions-league",
+        "jdwel_slug":"golden",
         "logo":"champions-league-v3.png",
         "theme_color":"#5998dc",
         "type":"tournament",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"last\/update\", \"has_standings\": 1, \"has_scorers\": 1}"
     }
 
     ,
