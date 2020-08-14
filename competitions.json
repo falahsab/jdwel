@@ -4,12 +4,17 @@
         "title_ar":"واتساب الذهبي بلس",
         "title_ar_sub":"اخر تحديث",
         "jdwel_slug":"golden",
-        "watsapp_type":"03/07/2020",
+        "watsapp_date":"03/07/2020",
+        "watsapp_type1":"العنابي",
+        "watsapp_type2":"الازرق",
+        "watsapp_type3":"الوردي",
+        "watsapp_type3":"الاخضر",
+
         "logo":"champions-league-v3.png",
         "theme_color":"#5998dc",
         "type":"tournament",
         "featured":"1",
-        "current_season":"{\"the_season\": \"last\/update\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"last\/update\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
