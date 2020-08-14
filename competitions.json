@@ -8,7 +8,7 @@
         "watsapp_type1":"العنابي",
         "watsapp_type2":"الازرق",
         "watsapp_type3":"الوردي",
-        "watsapp_type3":"الاخضر",
+        "watsapp_type4":"الاخضر",
 
         "logo":"champions-league-v3.png",
         "theme_color":"#5998dc",
@@ -27,12 +27,12 @@
         "watsapp_type1":"العنابي",
         "watsapp_type2":"الازرق",
         "watsapp_type3":"الوردي",
-        "watsapp_type3":"الاخضر",
+        "watsapp_type4":"الاخضر",
         "logo":"premier-league.png",
         "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
