@@ -1,9 +1,10 @@
 {
     "data":[ {
         "comp_id":"10",
-        "title_ar":"rrrrrrrrrrrrrrrrrrrrr",
-        "title_ar_sub":"uuuuuuuuuuuuu",
+        "title_ar":"واتساب الذهبي بلس",
+        "title_ar_sub":"اخر تحديث",
         "jdwel_slug":"golden",
+        "watsapp_type":"fouadi",
         "logo":"champions-league-v3.png",
         "theme_color":"#5998dc",
         "type":"tournament",
@@ -14,8 +15,8 @@
     ,
         {
         "comp_id":"2",
-        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a",
-        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"اخر تحديث",
         "jdwel_slug":"england-premier-league",
         "logo":"premier-league.png",
         "theme_color":"#63227d",
