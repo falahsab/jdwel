@@ -3,7 +3,7 @@
         "comp_id":"10",
         "title_ar":"واتساب ابو عرب",
         "title_ar_sub":"اخر تحديث",
-        "jdwel_slug":"golden",
+        "jdwel_slug":"goldn",
         "watsapp_date":"03/07/2020",
         "watsapp_type1":"الذهبي",
         "watsapp_type2":"برو",
@@ -28,11 +28,11 @@
         "watsapp_type2":"الازرق",
         "watsapp_type3":"الوردي",
         "watsapp_type4":"الاخضر",
-        "logo":"gold-whatsapp.webp",
+        "logo":"omar-blue.webp",
         "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+        "current_season":"{\"the_season\": "", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
