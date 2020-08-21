@@ -1,7 +1,10 @@
 { "products" : [
   { "Url": "http://t.me/all_whatsapp",
-  "Img" : "https://archive.org/download/ad_whatsapi7/ad1.jpg", 
-  "Alt": "قناتنا على التلجرام"
+    "Img" : "https://archive.org/download/ad_whatsapi7/ad1.jpg", 
+    "Alt": "قناتنا على التلجرام",
+    "Url2": "https://whatsappi7.blogspot.com/p/blog-page_10.html",
+    "Img2" : "http://sc4.hihi2.com/wp-content/uploads/2020/08/hihi2-2020-08-21_05-35-19_348436-597x200.jpg", 
+    "Alt2": "رونالدو ضد ميسي"
   }
   
 ]}
