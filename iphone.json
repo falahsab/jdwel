@@ -1,6 +1,9 @@
 { "data":[ 
 {
  "name":"iPhone 6S",
+ "iosall":"ios 12.3",
+ "net":"Yemen Mobile",
+ "note":"مع الـ3G وإظهار إسم المتصل وعداد المكالمات",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/zr4r9fca4hx1fwx/iP6G-6S_ios12.3Fix3G_bassye.com.ipcc/file"},
 {
