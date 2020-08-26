@@ -1,0 +1,55 @@
+{ "data":[ 
+{
+"whatsname":"واتساب عمر",
+"update":"4/7/2020",
+"verg":"v27",
+"whatsimg":"#",       
+"alltype":"
+[
+   {
+   \"name\":\"واتساب عمر العنابي\",
+   \"img\":\" yty \",
+   \"dlink\":\"http://gggg\"  },
+   {
+   \"name\":\"واتساب عمر الوردي\",
+   \"img\":\" yty \",
+   \"dlink\":\"http://gggg\"  },
+   {
+   \"name\":\"واتساب عمر الازرق\",
+   \"img\":\" yty \",
+   \"dlink\":\"http://gggg\"  },
+   {
+   \"name\":\"واتساب عمر الاخضر\",
+   \"img\":\" yty \",
+   \"dlink\":\"http://gggg\"  },
+]"  },
+
+{
+"whatsname":"واتساب عاصم محجوب",
+"update":"4/7/2020",
+"verg":"v27",
+"whatsimg":"#",      
+"alltype":"
+[
+   {
+   \"name\":\"اتساب عاصم الازرق\",
+   \"img\":\" yty \",
+   \"dlink\":\"http://gggg\"  },
+   {
+   \"name\":\"واتساب عاصم الاخضر\",
+   \"img\":\" yty \",
+   \"dlink\":\"http://gggg\"  },
+   {
+   \"name\":\"واتساب عاصم الذهبي\",
+   \"img\":\" yty \",
+   \"dlink\":\"http://gggg\"  },
+   {
+   \"name\":\"واتساب عاصم ارطغرل\",
+   \"img\":\" yty \",
+   \"dlink\":\"http://gggg\"  },
+]"  },
+
+
+]}
+
+   
