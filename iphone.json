@@ -1,6 +1,7 @@
 { "data":[ 
 {
  "name":"iPhone 6S",
+ "color":"#e83e8c",
  "iosall":"ios 12.3",
  "net":"Yemen Mobile",
  "note":"مع الـ3G وإظهار إسم المتصل وعداد المكالمات",
@@ -8,54 +9,67 @@
  "dlink":"http://www.mediafire.com/file/zr4r9fca4hx1fwx/iP6G-6S_ios12.3Fix3G_bassye.com.ipcc/file"},
 {
  "name":"iPhone 6G",
+ "color":"#007bff",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/zr4r9fca4hx1fwx/iP6G-6S_ios12.3Fix3G_bassye.com.ipcc/file"},
 {
  "name":"iPhone SE",
+ "color":"#6610f2",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/ykkvzva89iw1dzr/iP5S-SE_ios12.3Fix3G_bassye.com.ipcc/file"},
 {
  "name":"iPhone 5S",
+ "color":"#6f42c1",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/ykkvzva89iw1dzr/iP5S-SE_ios12.3Fix3G_bassye.com.ipcc/file"},
   {
  "name":"iPhone 7 Plus",
+  "color":"#e83e8c",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/sbx363hxqk72b79/iP7P-8P_ios12.3_Fix3G_bassye.com.ipcc/file"},
   {
  "name":"iPhone 7",
+ "color":"#dc3545",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/44yvdcaqr0cwkyk/iP7-8_ios12.3_Fix3G_bassye.com.ipcc/file"},
    {
  "name":"iPhone 6S Plus",
+ "color":"#ffc107",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/a0whb535s6yb346/iP-6%252B-6S%252B_ios12.3-Fix3G_BassYe.com.ipcc/file"},
    {
  "name":"iPhone 6 Plus",
+ "color":"#28a745",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/a0whb535s6yb346/iP-6%252B-6S%252B_ios12.3-Fix3G_BassYe.com.ipcc/file"},
    {
  "name":"iPhone XR",
+ "color":"#20c997",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/qt5zy4mbtj0a4b9/iPX_ios12.3_Fix3G_bassye.com.ipcc.ipcc/file"},
    {
  "name":"iPhone X",
+ "color":"#17a2b8",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/qt5zy4mbtj0a4b9/iPX_ios12.3_Fix3G_bassye.com.ipcc.ipcc/file"},
    {
  "name":"iPhone 8 Plus",
+ "color":"#6c757d",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/sbx363hxqk72b79/iP7P-8P_ios12.3_Fix3G_bassye.com.ipcc/file"},
    {
  "name":"iPhone 8",
+ "color":"#6f42c1",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/44yvdcaqr0cwkyk/iP7-8_ios12.3_Fix3G_bassye.com.ipcc/file"},
    {
  "name":"iPhone XS Max",
+ "color":"#dc3545",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/qt5zy4mbtj0a4b9/iPX_ios12.3_Fix3G_bassye.com.ipcc.ipcc/file"},
     {
  "name":"iPhone XS",
+ "color":"#007bff",
  "ios":"ipcc ios 12.3",
  "dlink":"http://www.mediafire.com/file/qt5zy4mbtj0a4b9/iPX_ios12.3_Fix3G_bassye.com.ipcc.ipcc/file"}
 ]}
