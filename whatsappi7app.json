@@ -4,25 +4,9 @@
 "update":"4/7/2020",
 "verg":"v27",
 "whatsimg":"#",       
-"alltype":"
-[
-   {
-   \"name\":\"واتساب عمر العنابي\",
-   \"img\":\" yty \",
-   \"dlink\":\"http://gggg\"  },
-   {
-   \"name\":\"واتساب عمر الوردي\",
-   \"img\":\" yty \",
-   \"dlink\":\"http://gggg\"  },
-   {
-   \"name\":\"واتساب عمر الازرق\",
-   \"img\":\" yty \",
-   \"dlink\":\"http://gggg\"  },
-   {
-   \"name\":\"واتساب عمر الاخضر\",
-   \"img\":\" yty \",
-   \"dlink\":\"http://gggg\"  },
-]"  },
+"alltype":"[{\"name\":\"واتساب عمر العنابي\",\"img\":\" yty \",\"dlink\":\"http://gggg\"},{
+   \"name\":\"واتساب عمر الوردي\",\"img\":\" yty \",\"dlink\":\"http://gggg\"  },{\"name\":\"واتساب عمر الازرق\",\"img\":\" yty \",\"dlink\":\"http://gggg\"},{
+   \"name\":\"واتساب عمر الاخضر\",\"img\":\" yty \",\"dlink\":\"http://gggg\"}]"  },
 
 {
 "whatsname":"واتساب عاصم محجوب",
@@ -46,7 +30,7 @@
    {
    \"name\":\"واتساب عاصم ارطغرل\",
    \"img\":\" yty \",
-   \"dlink\":\"http://gggg\"  },
+   \"dlink\":\"http://gggg\"  }
 ]"  },
 
 
