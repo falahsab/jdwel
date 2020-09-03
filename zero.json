@@ -2,7 +2,7 @@
     {
       "id": "1",
       "whatsname": "واتساب ابو عرب",
-      "typ":[{"name":"عنابي","img":"rrt"}'{"name":"وردي","img":"rrt"}],
+      "typ":[{"name":"عنابي","img":"rrt"},{"name":"وردي","img":"rrt"}],
       "update": "01/09/2020",
       "ver": "v8.55",
       "pageurl": "gold",
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "whatsname": "واتساب عمر",
-      "typ": "العنابي | الوردي | الازرق | الاخضر",
+      "typ":[{"name":"`ذهبي","img":"rrt"},{"name":"بنفسجي","img":"rrt"}],
       "update": "08/06/2020",
       "ver": "v27",
       "pageurl": "omar",
