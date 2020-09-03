@@ -1,0 +1,22 @@
+[
+    {
+      "id": "1",
+      "whatsname": "واتساب ابو عرب",
+      "typ": "الذهبي | الذهبي ايرو | الاحمر | الازرق",
+      "update": "01/09/2020",
+      "ver": "v8.55",
+      "pageurl": "gold",
+      "color": "#e83e8c",
+      "imgurl": "https://lh3.googleusercontent.com/-RDMRfm8eWKI/XzFTLOzkTII/AAAAAAAAAgg/He8XQOy6jn0VEE6goDtrQ3kwZqsttptwQCLcBGAsYHQ/h120/whatsapp-gold.png"
+    },
+    {
+      "id": "2",
+      "whatsname": "واتساب عمر",
+      "typ": "العنابي | الوردي | الازرق | الاخضر",
+      "update": "08/06/2020",
+      "ver": "v27",
+      "pageurl": "omar",
+      "color": "#007bff",
+      "imgurl": "https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png"
+    }
+    ]
