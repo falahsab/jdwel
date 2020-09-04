@@ -725,9 +725,9 @@
         {
             "id": "30",
             "whatsname": "واتساب ابو رعد",
-            "typ": "عدد النسخ: نسخة واحدة",
-            "update": "update",
-            "ver": "v",
+            "typ": "قيد الانشاء",
+            "update": "؟",
+            "ver": "؟",
             "pageurl": "abo-raad",
             "color": "#007bff",
             "imgurl": "https://1.bp.blogspot.com/-tOf5Ig0EsA0/XzLnsYYBxoI/AAAAAAAAAh0/j9_TwAbHQMAy_Qc6_Q74jBQ7bKWYFrEDgCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25A8%25D9%2588-%25D8%25B1%25D8%25B9%25D8%25AF.png",
@@ -749,12 +749,12 @@
         {
             "id": "31",
             "whatsname": "واتساب العسكر",
-            "typ": "عدد النسخ: نسخة واحدة",
-            "update": "update",
-            "ver": "v",
+            "typ": "بديل الرسمي | الذهبي | الاحمر | الازرق | الزهري",
+            "update": "19/08/2020",
+            "ver": "v4.96",
             "pageurl": "alaskar",
             "color": "#e83e8c",
-            "imgurl": "https://1.bp.blogspot.com/-XV4CffwRSD0/XzLnuxSy9fI/AAAAAAAAAiY/SGXKtUQVWAc7z8o9UAKnSsMvFJY_9m43ACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25B3%25D9%2583%25D8%25B1.png",
+            "imgurl": "https://lh3.googleusercontent.com/-TpP9bgBweG4/X1JX10OcqkI/AAAAAAAAAuo/tfHZuUy_sUg9woapoLWEauO0rYTPGKZTACLcBGAsYHQ/h120/alaskar.png",
             "pageurl":"",              
 			"ftyp":[
               {"name":"",
@@ -773,9 +773,10 @@
         {
             "id": "32",
             "whatsname": "واتساب ايرو",
-            "update": "update",
-            "ver": "v",
-            "pageurl": "ero",
+            "typ": "نسخة واحدة",		
+            "update": "05/06/2020",
+            "ver": "v8.36",
+            "pageurl": "aero",
             "color": "#007bff",
             "imgurl": "https://1.bp.blogspot.com/-GYO3wB27rog/XzLntdUC1NI/AAAAAAAAAiA/pavBHycE5vUFgVee7sU-VwAXuuuzf8JMwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2583%25D8%25B3.png",
             "pageurl":"",              
@@ -792,6 +793,30 @@
                "img":"",
                "dlink":""
               }]
-			}
+			},
+        {
+            "id": "33",
+            "whatsname": "واتساب هزام",
+            "typ": "الذهبي | البنفسجي | الاخضر",		
+            "update": "30/7/2020",
+            "ver": "v17",
+            "pageurl": "hazam",
+            "color": "#17a2b8",
+            "imgurl": "https://lh3.googleusercontent.com/-tP6Wwd4YJdY/X1JG-BFJXjI/AAAAAAAAAto/a-Ltu3deoTY1MRQ1kT2khCznUemewKubQCLcBGAsYHQ/h120/hazam-gold.png",
+            "pageurl":"",              
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }]
+			}	    
     ]
 }
