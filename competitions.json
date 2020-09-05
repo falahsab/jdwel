@@ -366,8 +366,591 @@
         "type":"league",
         "featured":"1",
         "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    },
+,
+        {
+        "comp_id":"77",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0645\u0635\u0631\u064a",
+        "title_ar_sub":"",
+        "jdwel_slug":"egyptian-super-cup",
+        "logo":"egyptian-association.png",
+        "theme_color":"#e2001a",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 0, \"has_scorers\": 0}"
     }
 
+    ,
+        {
+        "comp_id":"8",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0645\u063a\u0631\u0628\u064a",
+        "title_ar_sub":"\u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0625\u062d\u062a\u0631\u0627\u0641\u064a\u0629",
+        "jdwel_slug":"moroccan-league-botola",
+        "logo":"moroccan-league.png",
+        "theme_color":"#e3402d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"9",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062c\u0632\u0627\u0626\u0631\u064a",
+        "title_ar_sub":"\u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",
+        "jdwel_slug":"algerian-ligue-1",
+        "logo":"algerian-ligue-1.png",
+        "theme_color":"#4fa753",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"78",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+        "title_ar_sub":"",
+        "jdwel_slug":"algeria-cup",
+        "logo":"algeria-cup.png",
+        "theme_color":"#22ae4b",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 0}"
+    }
+
+    ,
+        {
+        "comp_id":"30",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0648\u0646\u0633\u064a",
+        "title_ar_sub":"\u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0645\u062d\u062a\u0631\u0641\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",
+        "jdwel_slug":"tunisian-ligue-1",
+        "logo":"tunisian-ligue-1-v2.png",
+        "theme_color":"#e8422f",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"46",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0633\u064a\u062f\u0627\u062a",
+        "title_ar_sub":null,
+        "jdwel_slug":"world-cup-women",
+        "logo":"world_football.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"0",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"44",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0634\u0628\u0627\u0628",
+        "title_ar_sub":"\u062a\u062d\u062a 20 \u0633\u0646\u0629",
+        "jdwel_slug":"world-cup-u20",
+        "logo":"world_football.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"0",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"39",
+        "title_ar":"\u062a\u0635\u0641\u064a\u0627\u062a \u0623\u0645\u0645 \u0623\u0648\u0631\u0648\u0628\u0627",
+        "title_ar_sub":"",
+        "jdwel_slug":"euro-qualification",
+        "logo":"european-qualifiers-v2.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"48",
+        "title_ar":"\u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0622\u0633\u064a\u0627",
+        "title_ar_sub":"",
+        "jdwel_slug":"wc-qualification-asia",
+        "logo":"world_football.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2022\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"49",
+        "title_ar":"\u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0623\u0641\u0631\u064a\u0642\u064a\u0627",
+        "title_ar_sub":"",
+        "jdwel_slug":"wc-qualification-africa",
+        "logo":"world_football.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2022\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"63",
+        "title_ar":"\u062a\u0635\u0641\u064a\u0627\u062a \u0623\u0645\u0645 \u0623\u0641\u0631\u064a\u0642\u064a\u0627",
+        "title_ar_sub":"",
+        "jdwel_slug":"africa-cup-of-nations-qualifications",
+        "logo":"caf-v2.png",
+        "theme_color":"#ff9716",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2021\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"71",
+        "title_ar":"\u0643\u0623\u0633 \u0622\u0633\u064a\u0627 \u062a\u062d\u062a 23 \u0633\u0646\u0629",
+        "title_ar_sub":"",
+        "jdwel_slug":"afc-championship-u23",
+        "logo":"afc.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"62",
+        "title_ar":"\u0643\u0623\u0633 \u0623\u0645\u0645 \u0623\u0641\u0631\u064a\u0642\u064a\u0627 \u062a\u062d\u062a 23 \u0633\u0646\u0629",
+        "title_ar_sub":"\u0627\u0644\u0623\u0648\u0644\u0648\u0645\u0628\u064a",
+        "jdwel_slug":"africa-cup-of-nations-u23",
+        "logo":"africa-cup-of-nations-2019.png",
+        "theme_color":"#ec822e",
+        "type":"tournament",
+        "featured":"0",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"58",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0646\u0627\u0634\u0626\u064a\u0646",
+        "title_ar_sub":"\u062a\u062d\u062a 17 \u0633\u0646\u0629",
+        "jdwel_slug":"world-cup-u17",
+        "logo":"world_football.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"0",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"76",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+        "title_ar_sub":"",
+        "jdwel_slug":"caf-super-cup",
+        "logo":"caf-super-cup.png",
+        "theme_color":"#ec822e",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 0, \"has_scorers\": 0}"
+    }
+
+    ,
+        {
+        "comp_id":"13",
+        "title_ar":"\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0641\u0631\u064a\u0642\u064a\u0627",
+        "title_ar_sub":null,
+        "jdwel_slug":"caf-champions-league",
+        "logo":"caf-champions-league.png",
+        "theme_color":"#ff9716",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"28",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0643\u0648\u0646\u0641\u062f\u0631\u0627\u0644\u064a\u0629",
+        "title_ar_sub":"\u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a\u0629",
+        "jdwel_slug":"confederation-cup",
+        "logo":"caf-confederations-cup.png",
+        "theme_color":"#ff9716",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"27",
+        "title_ar":"\u0643\u0623\u0633 \u0645\u0635\u0631",
+        "title_ar_sub":"",
+        "jdwel_slug":"egypt-cup",
+        "logo":"egypt-cup.png",
+        "theme_color":"#e2001a",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"67",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"eredivisie",
+        "logo":"eredivisie.png",
+        "theme_color":"#002f64",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\/2021\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"68",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"portugal-primeira-liga",
+        "logo":"primeira-liga.png",
+        "theme_color":"#4fa753",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"75",
+        "title_ar":"\u062a\u0634\u0627\u0645\u0628\u064a\u0648\u0646\u0634\u064a\u0628",
+        "title_ar_sub":"\u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629",
+        "jdwel_slug":"efl-championship",
+        "logo":"championship-efl-v2.png",
+        "theme_color":"#294acd",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"74",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0628\u0644\u062c\u064a\u0643\u064a",
+        "title_ar_sub":"\u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",
+        "jdwel_slug":"belgian-division-a",
+        "logo":"jupiler pro league-v2.png",
+        "theme_color":"#e8422f",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\/2021\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"32",
+        "title_ar":"\u0643\u0623\u0633 \u0641\u0631\u0646\u0633\u0627",
+        "title_ar_sub":"",
+        "jdwel_slug":"coupe-de-france",
+        "logo":"coupe-de-france.png",
+        "theme_color":"#294acd",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"31",
+        "title_ar":"\u0643\u0623\u0633 \u0625\u064a\u0637\u0627\u0644\u064a\u0627",
+        "title_ar_sub":"",
+        "jdwel_slug":"coppa-italia",
+        "logo":"coppa-italia-v2.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"33",
+        "title_ar":"\u0643\u0623\u0633 \u0623\u0644\u0645\u0627\u0646\u064a\u0627",
+        "title_ar_sub":"",
+        "jdwel_slug":"dfb-pokal",
+        "logo":"dfb-pokal.png",
+        "theme_color":"#e2001a",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"17",
+        "title_ar":"\u062f\u0648\u0631\u064a \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a",
+        "title_ar_sub":"\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a",
+        "jdwel_slug":"uae-pro-league",
+        "logo":"gulf-league-v2.png",
+        "theme_color":"#79b77f",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"35",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0642\u0637\u0631\u064a",
+        "title_ar_sub":"\u0646\u062c\u0648\u0645 \u0642\u0637\u0631",
+        "jdwel_slug":"qatari-league",
+        "logo":"qsl-stars-league.png",
+        "theme_color":"#50112c",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"24",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0631\u062f\u0646\u064a",
+        "title_ar_sub":"\u0644\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646",
+        "jdwel_slug":"jordanian-pro-league",
+        "logo":"jordan-pro-league.png",
+        "theme_color":"#c81e2b",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"18",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"iraqi-premier-league",
+        "logo":"iraqi-premier-league.png",
+        "theme_color":"#a7684c",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"19",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0643\u0648\u064a\u062a\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"kuwait-premier-league",
+        "logo":"kuwait-premier-league.png",
+        "theme_color":"#294acd",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"51",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0639\u0645\u0627\u0646\u064a",
+        "title_ar_sub":"",
+        "jdwel_slug":"oman-professional-league",
+        "logo":"oman-professional-league.png",
+        "theme_color":"#e3402d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"73",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0628\u062d\u0631\u064a\u0646\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"bahraini-premier-league",
+        "logo":"nasser-bin-hamad-league.png",
+        "theme_color":"#e2001a",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"50",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0648\u0631\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"syrian-premier-league",
+        "logo":"syrian-premier-league.png",
+        "theme_color":"#e8422f",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"61",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"lebanon-premier-league",
+        "logo":"lebanon-premier-league.png",
+        "theme_color":"#e2001a",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"53",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"sudan-premier-league",
+        "logo":"sudan-premier-league.png",
+        "theme_color":"#294acd",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 0}"
+    }
+
+    ,
+        {
+        "comp_id":"37",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0622\u0633\u064a\u0648\u064a",
+        "title_ar_sub":"",
+        "jdwel_slug":"afc-cup",
+        "logo":"afc-cup-v2.png",
+        "theme_color":"#228ccd",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"36",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0635\u064a\u0646\u064a",
+        "title_ar_sub":"\u0633\u0648\u0628\u0631",
+        "jdwel_slug":"chinese-super-league",
+        "logo":"chinese-super-league-v2.png",
+        "theme_color":"#f27230",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"23",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0631\u0643\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"turkish-super-lig",
+        "logo":"turkey-super-lig.png",
+        "theme_color":"#dc3e2c",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"72",
+        "title_ar":"\u0643\u0648\u0628\u0627 \u0644\u064a\u0628\u0631\u062a\u0627\u062f\u0648\u0631\u064a\u0633",
+        "title_ar_sub":"",
+        "jdwel_slug":"copa-libertadores",
+        "logo":"copa-libertadores-v2.png",
+        "theme_color":"#fdbf5a",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"38",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644\u064a",
+        "title_ar_sub":"\u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",
+        "jdwel_slug":"brasileiro-serie-a",
+        "logo":"brasileiro-serie-a.png",
+        "theme_color":"#006ede",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"43",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a",
+        "title_ar_sub":"MLS",
+        "jdwel_slug":"mls",
+        "logo":"major-league-soccer.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"29",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"superliga-argentina",
+        "logo":"superliga-argentina-v2.png",
+        "theme_color":"#228ccd",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"60",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u064a\u0627\u0628\u0627\u0646\u064a",
+        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
+        "jdwel_slug":"japanese-league",
+        "logo":"j-league-v2.png",
+        "theme_color":"#e2001a",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"79",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0643\u0648\u0631\u064a \u0627\u0644\u062c\u0646\u0648\u0628\u064a",
+        "title_ar_sub":"",
+        "jdwel_slug":"k-league",
+        "logo":"k-league-v2.png",
+        "theme_color":"#e3402d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    }
+
+    ,
+        {
+        "comp_id":"59",
+        "title_ar":"\u062f\u0648\u0631\u064a \u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0627\u0644\u0633\u0639\u0648\u062f\u064a",
+        "title_ar_sub":"",
+        "jdwel_slug":"saudi-league-division-1",
+        "logo":"saudi-division-1-mbs.png",
+        "theme_color":"#4fa753",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 0}"
+    }
    
 
     ],
