@@ -14,7 +14,7 @@
         "theme_color":"#5998dc",
         "type":"tournament",
         "featured":"1",
-        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 0, \"has_s1\": 1}"
     }
 
     ,
