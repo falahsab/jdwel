@@ -31,300 +31,341 @@
     ,
         {
         "comp_id":"3",
-        "title_ar":"واتساب صنعاء",
-        "title_ar_sub":"آخر تحديث في",
-        "jdwel_slug":"sanaa",
-        "logo":"sanaa-whatsapp.webp",
-        "theme_color":"#ffbc00",
+        "title_ar":"جي بي واتساب",
+        "title_ar_sub":"جي بي | جي بي2 ",
+        "jdwel_slug":"gb",
+        "watsapp_date":"11/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-wi75pAVIJFU/XzFr6cR07BI/AAAAAAAAAhg/6uzkix8MwF8DmdVbESupWgRFJwqlIeOWQCLcBGAsYHQ/h120/gb-whatsapp.png",
+        "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"69",
-        "title_ar":"واتساب يمني",
-        "title_ar_sub":"",
-        "jdwel_slug":"yemeni",
-        "logo":"yemeni-whatsapp.webp",
-        "theme_color":"#ffbc00",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"\", \"has_standings\": 0, \"has_scorers\": 1}"
+        "title_ar":"جي بي اتنفس هواك",
+        "title_ar_sub":"اتنفس هواك | اتنفس هواك بلس",
+        "jdwel_slug":"gb",
+        "watsapp_date":"11/07/2020",
+        "ver": "v8.35",
+        "logo":"https://1.bp.blogspot.com/-8Y76_tsLMxk/XzLnr0rTXsI/AAAAAAAAAhs/I1xk3fjb0rAYEpu9rqX8ziQMF19qoatiwCLcBGAsYHQ/s0/%25D8%25AC%25D9%258A-%25D8%25A8%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25AA%25D9%2586%25D9%2581%25D8%25B3-%25D9%2587%25D9%2588%25D8%25A7%25D9%2583.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"4",
-        "title_ar":"مصري واتياب",
-        "title_ar_sub":"",
-        "jdwel_slug":"egyptian",
-        "logo":"egyptian-whatsapp.webp",
-        "theme_color":"#006ede",
+        "title_ar":"يو واتساب",
+        "title_ar_sub":"بديل الرسمي | النسخة2 | النسخة3 | جولد",
+        "jdwel_slug":"yo",
+        "watsapp_date":"23/08/2020",
+        "ver": "v9.35",
+        "logo":"https://lh3.googleusercontent.com/-IZZx5win1Eg/XzFhZGrDL4I/AAAAAAAAAgs/tmgRbDzuZoYoZVIt0qNUQ8pCAnbPE68vQCLcBGAsYHQ/h120/yo-whatsapp.png",        "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"70",
-        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0625\u064a\u0637\u0627\u0644\u064a",
-        "title_ar_sub":"",
-        "jdwel_slug":"italian-super-cup",
-        "logo":"supercoppa-italy-v2.png",
-        "theme_color":"#5998dc",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 0, \"has_scorers\": 0}"
+        "title_ar":"واتساب عاصم محجوبب",
+        "title_ar_sub":"بلس | الاخضر | الازرق | الوردي | ارطغرل",
+        "jdwel_slug":"3ssem",
+        "watsapp_date":"23/08/2020",
+        "ver": "v14",
+        "logo":"https://1.bp.blogspot.com/-hMY5CG2KYgM/XzLn0Qn0ayI/AAAAAAAAAjc/pcT11HjFyBAPAJVYPtkBN0_riQ3L7cguACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B9%25D8%25A7%25D8%25B5%25D9%2585-%25D9%2585%25D8%25AD%25D8%25AC%25D9%2588%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AE%25D8%25B6%25D8%25B1.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"1",
-        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a",
-        "title_ar_sub":"\u0644\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646",
-        "jdwel_slug":"saudi-league",
-        "logo":"saudi-mbs-v2.png",
-        "theme_color":"#22ae4b",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"64",
-        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0633\u0639\u0648\u062f\u064a",
-        "title_ar_sub":"",
-        "jdwel_slug":"saudi-super-cup",
-        "logo":"saudi-super-cup-v2.png",
-        "theme_color":"#22ae4b",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 0, \"has_scorers\": 0}"
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"26",
-        "title_ar":"\u0643\u0623\u0633 \u062e\u0627\u062f\u0645 \u0627\u0644\u062d\u0631\u0645\u064a\u0646",
-        "title_ar_sub":"\u0627\u0644\u0634\u0631\u064a\u0641\u064a\u0646",
-        "jdwel_slug":"saudi-kings-cup",
-        "logo":"saudi-kings-cup.png",
-        "theme_color":"#22ae4b",
-        "type":"tournament",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 0, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"12",
-        "title_ar":"\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0622\u0633\u064a\u0627",
-        "title_ar_sub":"",
-        "jdwel_slug":"afc-asia-champions-league",
-        "logo":"afc-champions-league.png",
-        "theme_color":"#009cef",
-        "type":"tournament",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"20",
-        "title_ar":"\u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0644\u0644\u0623\u0646\u062f\u064a\u0629",
-        "title_ar_sub":"",
-        "jdwel_slug":"arab-club-championship",
-        "logo":"arab-club-championship-v2.png",
-        "theme_color":"#228ccd",
-        "type":"tournament",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"6",
-        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0641\u0631\u0646\u0633\u064a",
-        "title_ar_sub":"\u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",
-        "jdwel_slug":"french-ligue-1",
-        "logo":"ligue-1-v2.png",
-        "theme_color":"#294acd",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2020\/2021\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"5",
-        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a",
-        "title_ar_sub":"\u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",
-        "jdwel_slug":"german-bundesliga",
-        "logo":"bundesliga-v2.png",
-        "theme_color":"#c81e2b",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2020\/2021\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"34",
-        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a",
-        "title_ar_sub":"",
-        "jdwel_slug":"fa-cup",
-        "logo":"fa-cup-v2.png",
-        "theme_color":"#294acd",
-        "type":"tournament",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"21",
-        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629",
-        "title_ar_sub":"\u0644\u0644\u0645\u062d\u062a\u0631\u0641\u064a\u0646",
-        "jdwel_slug":"efl-cup",
-        "logo":"efl-cup-v2.png",
-        "theme_color":"#5b95ff",
-        "type":"tournament",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"22",
-        "title_ar":"\u0643\u0623\u0633 \u0645\u0644\u0643 \u0625\u0633\u0628\u0627\u0646\u064a\u0627",
-        "title_ar_sub":"",
-        "jdwel_slug":"copa-del-rey",
-        "logo":"copa-del-rey-v2.png",
-        "theme_color":"#ffbc00",
-        "type":"tournament",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"16",
-        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a",
-        "title_ar_sub":"",
-        "jdwel_slug":"uefa-europa-league",
-        "logo":"europa-league-v2.png",
-        "theme_color":"#ec822e",
-        "type":"tournament",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"11",
-        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645",
-        "title_ar_sub":"",
-        "jdwel_slug":"world-cup",
-        "logo":"placeholder.png",
-        "theme_color":"#006ede",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2018\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"66",
-        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0623\u0646\u062f\u064a\u0629",
-        "title_ar_sub":"",
-        "jdwel_slug":"club-world-cup",
-        "logo":"club-world-cup-v2.png",
-        "theme_color":"#006ede",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 0, \"has_scorers\": 1}"
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"41",
-        "title_ar":"\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629",
-        "title_ar_sub":"",
-        "jdwel_slug":"uefa-nations-league",
-        "logo":"uefa-nations-league-v2.png",
-        "theme_color":"#ffbc00",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2018\/2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"42",
-        "title_ar":"\u0643\u0648\u0628\u0627 \u0623\u0645\u0631\u064a\u0643\u0627",
-        "title_ar_sub":"",
-        "jdwel_slug":"copa-america",
-        "logo":"copa-america-2019-v2.png",
-        "theme_color":"#4fa753",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
-        "comp_id":"25",
-        "title_ar":"\u0643\u0623\u0633 \u0622\u0633\u064a\u0627",
-        "title_ar_sub":"",
-        "jdwel_slug":"afc-asian-cup",
-        "logo":"asian-cup-2019-v2.png",
-        "theme_color":"#006ede",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"url",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"40",
-        "title_ar":"\u0643\u0623\u0633 \u0623\u0645\u0645 \u0623\u0641\u0631\u064a\u0642\u064a\u0627",
-        "title_ar_sub":null,
-        "jdwel_slug":"africa-cup-of-nations",
-        "logo":"africa-cup-of-nations-2019.png",
-        "theme_color":"#ff9716",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"url",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"65",
-        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u062e\u0644\u064a\u062c",
-        "title_ar_sub":"\u0627\u0644\u0639\u0631\u0628\u064a",
-        "jdwel_slug":"arab-gulf-cup",
-        "logo":"arab-gulf-cup.png",
-        "theme_color":"#006ede",
-        "type":"tournament",
-        "featured":"0",
-        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"url",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
         {
         "comp_id":"7",
-        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0645\u0635\u0631\u064a",
-        "title_ar_sub":"\u0627\u0644\u0645\u0645\u062a\u0627\u0632",
-        "jdwel_slug":"egyptian-premier-league",
-        "logo":"egyptian-league.png",
-        "theme_color":"#e2001a",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"url",
+        "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
     }
 
     ,
