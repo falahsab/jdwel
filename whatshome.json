@@ -1,7 +1,11 @@
 {
-    "w": [
+    "data": [
         {
             "comp_id": "1",
+        "comp_id":"10",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}",
             "whatsname": "\u0648\u0627\u062A\u0633\u0627\u0628 \u0627\u0628\u0648 \u0639\u0631\u0628",
             "typ": "الذهبي | الذهبي ايرو | الاحمر | الازرق",
             "update": "01/09/2020",
@@ -29,7 +33,9 @@
         },
         {
             "comp_id": "2",
-            "whatsname": "\u0648\u0627\u062A\u0633\u0627\u0628 \u0639\u0645\u0631",
+         "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}",            "whatsname": "\u0648\u0627\u062A\u0633\u0627\u0628 \u0639\u0645\u0631",
             "typ": "العنابي | الوردي | الازرق | الاخضر",
             "update": "08/06/2020",
             "ver": "v27",
@@ -57,6 +63,10 @@
 	   },
         {
             "id": "3",
+        "comp_id":"3",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}",            "whatsname": "\u0648\u0627\u062A\u0633\u0627\u0628 \u0639\u0645\u0631",
             "whatsname": "جي بي واتساب",
             "typ": "جي بي | جي بي2 | اتنفس هواك | اتنفس هواك بلس",
             "update": "11/07/2020",
@@ -84,6 +94,10 @@
 	   },
         {
             "id": "4",
+        "comp_id":"69",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}",            "whatsname": "\u0648\u0627\u062A\u0633\u0627\u0628 \u0639\u0645\u0631",
             "whatsname": "جي بي اتنفس هواك",
             "typ": "عدد النسخ: نسخة واحدة",
             "update": "11/07/2020",
@@ -111,7 +125,11 @@
 	 },
         {
             "id": "5",
-            "whatsname": "يو واتساب",
+        "comp_id":"4",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}",            "whatsname": "\u0648\u0627\u062A\u0633\u0627\u0628 \u0639\u0645\u0631",
+		"whatsname": "يو واتساب",
             "typ": "بديل الرسمي | النسخة2 | النسخة3 | جولد",
             "update": "23/08/2020",
             "ver": "v9.35",
@@ -785,5 +803,8 @@
                "dlink":""
               }]
 			}	    
-    ]
+    ],
+	"information": {
+        "type": "all"
+    }
 }
