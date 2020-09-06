@@ -1,0 +1,1188 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "whatsname": "\u0648\u0627\u062A\u0633\u0627\u0628 \u0627\u0628\u0648 \u0639\u0631\u0628",
+            "typ": "الذهبي | الذهبي ايرو | الاحمر | الازرق",
+            "update": "01/09/2020",
+            "ver": "v8.55",
+            "pageurl": "gold",
+            "color": "#e83e8c",
+            "imgurl": "https://lh3.googleusercontent.com/-RDMRfm8eWKI/XzFTLOzkTII/AAAAAAAAAgg/He8XQOy6jn0VEE6goDtrQ3kwZqsttptwQCLcBGAsYHQ/h120/whatsapp-gold.png",
+			"ftyp":[
+              {"name":"الذهبي",
+               "img":"",
+               "dlink":"https://archive.org/download/wa-2-abo-3rab-v-8.55/WA2_Abo3rab_v8.55.apkk"
+              },
+              {"name":"الذهبي ايرو",
+               "img":"",
+               "dlink":"https://archive.org/download/wa-4-abo-3rab-v-8.55/WA4_Abo3rab_v8.55.apk"
+              },
+              {"name":"الاحمر",
+               "img":"",
+               "dlink":"https://archive.org/download/wa-3-abo-3rab-v-8.55/WA3_Abo3rab_v8.55.apk"
+              },
+              {"name":"الازرق",
+               "img":"",
+               "dlink":"https://archive.org/download/wa-abo-3rab-v-8.55/WA_Abo3rab_v8.55.apk"
+              }],
+"comp_id":"10",
+        "title_ar":"واتساب ابو عرب",
+        "title_ar_sub":"الذهبي | الذهبي ايرو | الاحمر | الازرق",
+        "jdwel_slug":"gold",
+        "watsapp_date":"03/07/2020",
+         "ver": "v8.55",
+        "logo":"https://lh3.googleusercontent.com/-RDMRfm8eWKI/XzFTLOzkTII/AAAAAAAAAgg/He8XQOy6jn0VEE6goDtrQ3kwZqsttptwQCLcBGAsYHQ/h120/whatsapp-gold.png",
+        "theme_color":"#5998dc",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 2, \"has_s1\": 1}"
+
+
+        },
+        {
+            "id": "2",
+            "whatsname": "\u0648\u0627\u062A\u0633\u0627\u0628 \u0639\u0645\u0631",
+            "typ": "العنابي | الوردي | الازرق | الاخضر",
+            "update": "08/06/2020",
+            "ver": "v27",
+            "pageurl": "omar",
+            "color": "#007bff",
+            "imgurl": "https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+		      	"ftyp":[
+              {"name":"العنابي",
+               "img":"",
+               "dlink":"https://archive.org/download/whatsappomar-v27/OBWhatsApp_v27.apk"
+              },
+              {"name":"الوردي",
+               "img":"",
+               "dlink":"https://archive.org/download/whatsappomar-v27/OB2WhatsApp_v27.apk"
+              },
+              {"name":"الازرق",
+               "img":"",
+               "dlink":"https://archive.org/download/whatsappomar-v27/OB3WhatsApp_v27.apk"
+              },
+              {"name":"الاخضر",
+               "img":"",
+               "dlink":"https://archive.org/download/whatsappomar-v27/OB4WhatsApp_v27.apk"   
+              }],
+"comp_id":"2",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+ 
+
+	   },
+        {
+            "id": "3",
+            "whatsname": "جي بي واتساب",
+            "typ": "جي بي | جي بي2 | اتنفس هواك | اتنفس هواك بلس",
+            "update": "11/07/2020",
+            "ver": "v27",
+            "pageurl": "gb",
+            "color": "#6610f2",
+            "imgurl": "https://lh3.googleusercontent.com/-wi75pAVIJFU/XzFr6cR07BI/AAAAAAAAAhg/6uzkix8MwF8DmdVbESupWgRFJwqlIeOWQCLcBGAsYHQ/h120/gb-whatsapp.png",
+		      	"ftyp":[
+              {"name":"جي بي",
+               "img":"",
+               "dlink":"https://www.mediafire.com/file/i5bdt4nso0huhao/GBWhatsApp_Pro_v8.75.apk/file"
+              },
+              {"name":"جي بي لتشغيل رقم ثاني",
+               "img":"",
+               "dlink":"https://tawasol4sy.org/download/ogwhatsapp/?wpdmdl=620&refresh=5f46e0deef61a1598480606"
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"3",
+        "title_ar":"جي بي واتساب",
+        "title_ar_sub":"جي بي | جي بي2 ",
+        "jdwel_slug":"gb",
+        "watsapp_date":"11/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-wi75pAVIJFU/XzFr6cR07BI/AAAAAAAAAhg/6uzkix8MwF8DmdVbESupWgRFJwqlIeOWQCLcBGAsYHQ/h120/gb-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+	   },
+        {
+            "id": "4",
+            "whatsname": "جي بي اتنفس هواك",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "11/07/2020",
+            "ver": "v8.35",
+            "pageurl": "gb",
+            "color": "#6f42c1",
+            "imgurl": "https://1.bp.blogspot.com/-8Y76_tsLMxk/XzLnr0rTXsI/AAAAAAAAAhs/I1xk3fjb0rAYEpu9rqX8ziQMF19qoatiwCLcBGAsYHQ/s0/%25D8%25AC%25D9%258A-%25D8%25A8%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25AA%25D9%2586%25D9%2581%25D8%25B3-%25D9%2587%25D9%2588%25D8%25A7%25D9%2583.png",
+			"ftyp":[
+              {"name":"اتنفس هواك",
+               "img":"",
+               "dlink":"https://tawasol4sy.org/download/gbwhatsapp/?wpdmdl=80&refresh=5f46e09a3c4cc1598480538"
+              },
+              {"name":"اتنفس هواك بلس",
+               "img":"",
+               "dlink":"https://tawasol4sy.org/download/whatsapp-plus-atnfas-hoak/?wpdmdl=1024&refresh=5f46e08dd84901598480525"
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+"comp_id":"69",
+        "title_ar":"جي بي اتنفس هواك",
+        "title_ar_sub":"اتنفس هواك | اتنفس هواك بلس",
+        "jdwel_slug":"gb",
+        "watsapp_date":"11/07/2020",
+        "ver": "v8.35",
+        "logo":"https://1.bp.blogspot.com/-8Y76_tsLMxk/XzLnr0rTXsI/AAAAAAAAAhs/I1xk3fjb0rAYEpu9rqX8ziQMF19qoatiwCLcBGAsYHQ/s0/%25D8%25AC%25D9%258A-%25D8%25A8%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25AA%25D9%2586%25D9%2581%25D8%25B3-%25D9%2587%25D9%2588%25D8%25A7%25D9%2583.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+	 },
+        {
+            "id": "5",
+            "whatsname": "يو واتساب",
+            "typ": "بديل الرسمي | النسخة2 | النسخة3 | جولد",
+            "update": "23/08/2020",
+            "ver": "v9.35",
+            "pageurl": "yo",
+            "color": "#e83e8",
+            "imgurl": "https://lh3.googleusercontent.com/-IZZx5win1Eg/XzFhZGrDL4I/AAAAAAAAAgs/tmgRbDzuZoYoZVIt0qNUQ8pCAnbPE68vQCLcBGAsYHQ/h120/yo-whatsapp.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }]    ,
+"comp_id":"4",
+        "title_ar":"يو واتساب",
+        "title_ar_sub":"بديل الرسمي | النسخة2 | النسخة3 | جولد",
+        "jdwel_slug":"yo",
+        "watsapp_date":"23/08/2020",
+        "ver": "v9.35",
+        "logo":"https://lh3.googleusercontent.com/-IZZx5win1Eg/XzFhZGrDL4I/AAAAAAAAAgs/tmgRbDzuZoYoZVIt0qNUQ8pCAnbPE68vQCLcBGAsYHQ/h120/yo-whatsapp.png",        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+	   },
+        {
+            "id": "6",
+            "whatsname": "واتساب عاصم محجوب",
+            "typ": "بلس | الاخضر | الازرق | الوردي | ارطغرل",
+            "update": "23/08/2020",
+            "ver": "v14",
+            "pageurl": "3ssem",
+            "color": "#dc3545",
+            "imgurl": "https://1.bp.blogspot.com/-hMY5CG2KYgM/XzLn0Qn0ayI/AAAAAAAAAjc/pcT11HjFyBAPAJVYPtkBN0_riQ3L7cguACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B9%25D8%25A7%25D8%25B5%25D9%2585-%25D9%2585%25D8%25AD%25D8%25AC%25D9%2588%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AE%25D8%25B6%25D8%25B1.png",
+		      	"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"70",
+        "title_ar":"واتساب عاصم محجوبب",
+        "title_ar_sub":"بلس | الاخضر | الازرق | الوردي | ارطغرل",
+        "jdwel_slug":"3ssem",
+        "watsapp_date":"23/08/2020",
+        "ver": "v14",
+        "logo":"https://1.bp.blogspot.com/-hMY5CG2KYgM/XzLn0Qn0ayI/AAAAAAAAAjc/pcT11HjFyBAPAJVYPtkBN0_riQ3L7cguACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B9%25D8%25A7%25D8%25B5%25D9%2585-%25D9%2585%25D8%25AD%25D8%25AC%25D9%2588%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AE%25D8%25B6%25D8%25B1.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "7",
+            "whatsname": "واتساب آدم",
+            "typ": "الاسود | البني",
+            "update": "06/08/2020",
+            "ver": "V19",
+            "pageurl": "adam",
+            "color": "#ffc107",
+            "imgurl": "https://1.bp.blogspot.com/-_wmHegt9mUU/XzLnsVIjmkI/AAAAAAAAAhw/PkzvCJxt0Z05cb3iyXehQnjkuy1zJmHmwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25AF%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B3%25D9%2588%25D8%25AF.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"1",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+
+       },
+        {
+            "id": "8",
+            "whatsname": "واتساب حواء",
+            "typ": "الاحمر | البنفسجي",
+            "update": "06/08/2020",
+            "ver": "V19",
+            "pageurl": "hawa",
+            "color": "#28a745",
+            "imgurl": "https://1.bp.blogspot.com/-JEh8D7jcrEs/XzLnyyoduTI/AAAAAAAAAjI/fSN-ZwEFq1oIsmAsf6Cmh-yP6-RsUrZtwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25AD%25D9%2588%25D8%25A7%25D8%25A1-%25D8%25A7%25D9%2584%25D8%25A8%25D9%2586%25D9%2581%25D8%25B3%25D8%25AC%25D9%258A.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"64",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "9",
+            "whatsname": "واتساب صنعاء",
+            "typ": "الأزرق | الوردي",
+            "update": "06/08/2020",
+            "ver": "v27",
+            "pageurl": "sanaa",
+            "color": "#20c997",
+            "imgurl": "https://1.bp.blogspot.com/-JaJvUx85q9I/XzLnzsDsiAI/AAAAAAAAAjU/jg37encwZYMEBkm-WwypMiDtdogKlGTrwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B5%25D9%2586%25D8%25B9%25D8%25A7%25D8%25A1-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"26",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "10",
+            "whatsname": "واتساب حضرموت",
+            "typ": "الازرق | الوردي",
+            "update": "04/08/2020",
+            "ver": "v27",
+            "pageurl": "hadrami",
+            "color": "#17a2b8",
+            "imgurl": "https://1.bp.blogspot.com/-2R7YVzhNKx4/XzLnyLYrz3I/AAAAAAAAAjA/88vezlJAbjU_KN_QZP-EoxnwtvaoCHuwgCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25AD%25D8%25B6%25D8%25B1%25D9%2585%25D9%2588%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"12",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "11",
+            "whatsname": "واتساب تعز",
+            "typ": "الازرق | الوردي",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "taiz",
+            "color": "#6c757d",
+            "imgurl": "https://1.bp.blogspot.com/-CMeHSe-V9d4/XzLnw_H3m6I/AAAAAAAAAiw/uLoUBkRebzoeOC7_lDEi1ZlN5FAfA6l9ACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25AA%25D8%25B9%25D8%25B2-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
+ 			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"20",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+       },
+        {
+            "id": "12",
+            "whatsname": "يمني واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "yemeni",
+            "color": "#6f42c1",
+            "imgurl": "https://1.bp.blogspot.com/-6hzMjvRwlWg/Xz0XPixQN8I/AAAAAAAAAl0/YSi6XB4yhRUl_-nDrf6cnlDNe1W6pJMDACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D9%258A%25D9%2585%25D9%2586%25D9%258A.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"6",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+        },
+        {
+            "id": "13",
+            "whatsname": "لبناني واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "lobnani",
+            "color": "#dc3545",
+            "imgurl": "https://1.bp.blogspot.com/-XbBiODg4KE4/Xz0bnaNJipI/AAAAAAAAAmA/m4G1ozVkxtIPuvP6zX1XE3cJ4qJgl455QCLcBGAsYHQ/s0/%25D9%2584%25D8%25A8%25D9%2586%25D8%25A7%25D9%2586%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""  
+              }],
+"comp_id":"5",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+  
+			},
+        {
+            "id": "14",
+            "whatsname": "مصري واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "egyptian",
+            "color": "#007bff",
+            "imgurl": "https://1.bp.blogspot.com/-Oq5R7i465zY/Xz0eWtTSezI/AAAAAAAAAmM/FZNkvl-rVyoQ7uSskOBy8HYNv0lMeInXACLcBGAsYHQ/s0/%25D9%2585%25D8%25B5%25D8%25B1%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+"comp_id":"34",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "15",
+            "whatsname": "سعودي واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "saudi",
+            "color": "#6f42c1",
+            "imgurl": "https://1.bp.blogspot.com/-mGGUz2W5mNk/Xz0laocmneI/AAAAAAAAAmk/3Lk0cq3HLKMGeRj_WfkhcdKTd-C8fwY3wCLcBGAsYHQ/s0/%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+"comp_id":"21",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "16",
+            "whatsname": "مغربي واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "moroccan",
+            "color": "#20c997",
+            "imgurl": "https://1.bp.blogspot.com/-vkCIhr5PKhY/Xz0ii8qQJBI/AAAAAAAAAmY/44KYI6HTcR4M8XGcPjFiNzmwE463VzDsACLcBGAsYHQ/s0/%25D9%2585%25D8%25BA%25D8%25B1%25D8%25A8%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"22",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "17",
+            "whatsname": "سوداني واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "sudani",
+            "color": "#e83e8c",
+            "imgurl": "https://1.bp.blogspot.com/-tPygfTvm1xU/Xz0yJIScvqI/AAAAAAAAAmw/P7FIKrxdnNQ7L2NIaWqJBFq5fFoWJzhYgCLcBGAsYHQ/s0/%25D8%25B3%25D9%2588%25D8%25AF%25D8%25A7%25D9%2586%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"16",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "18",
+            "whatsname": "دمشق واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "damascus",
+            "color": "#007bff",
+            "imgurl": "https://1.bp.blogspot.com/-rB0c2RTtdRQ/Xz0yJMyVrtI/AAAAAAAAAm0/u02nXjPaCIIGcQS0v3IDIaoI7V3WwXFOgCLcBGAsYHQ/s250/%25D8%25AF%25D9%2585%25D8%25B4%25D9%2582-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+"comp_id":"11",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "19",
+            "whatsname": "نواكشوط واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "nouakchott",
+            "color": "#6610f2",
+            "imgurl": "https://1.bp.blogspot.com/-W-XdfIoqP5U/Xz040_scJ3I/AAAAAAAAAnE/QPSh77bOdw8r_qAJSACCJ_EyltufJgnNQCLcBGAsYHQ/s0/%25D9%2586%25D9%2588%25D8%25A7%25D9%2583%25D8%25B4%25D9%2588%25D8%25B7-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"66",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "20",
+            "whatsname": "سنغالي واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "senegalese",
+            "color": "#6f42c1",
+            "imgurl": "https://1.bp.blogspot.com/-Wjldvd-k5eM/X0Kp0k1A5LI/AAAAAAAAAoc/u_eLqY4e844OH8LfeAwso0zYRT8Zu5EfACPcBGAYYCw/s250/Senegalese-whatsapp.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"41",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "21",
+            "whatsname": "نيجيري واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/08/2020",
+            "ver": "v19",
+            "pageurl": "nigerian",
+            "color": "#e83e8",
+            "imgurl": "https://lh3.googleusercontent.com/-AFEn-cwPtGs/X0KvIKltLvI/AAAAAAAAAok/MpMeGW8mdSAlPhwJydmHGUdE5S5aaYi6gCLcBGAsYHQ/h120/nigerian-whatsapp.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"42",
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "22",
+            "whatsname": "واتساب عمرو رسام",
+            "typ": "الازرق | الوردي",
+            "update": "04/08/2020",
+            "ver": "v27",
+            "pageurl": "amro",
+            "color": "#dc3545",
+            "imgurl": "https://1.bp.blogspot.com/-lK1iyfDBLyw/XzLn3dn6FxI/AAAAAAAAAj4/lDn5Y7-u-C047mNnT1ScOb3XTE5B5kqwwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B9%25D9%2585%25D8%25B1%25D9%2588-%25D8%25B1%25D8%25B3%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":"",
+              }],
+
+        "title_ar":"واتساب عمر باذيب",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"url",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "23",
+            "whatsname": "واتساب العاقل",
+            "typ": "الذهبي | العنابي | الاخضر | الوردي",
+            "update": "27/08/2020",
+            "ver": "v8.40",
+            "pageurl": "alaqel",
+            "color": "#ffc107",
+            "imgurl": "https://1.bp.blogspot.com/-SqUDsuFLxek/XzLnur_oCAI/AAAAAAAAAiU/qAcNthOuRkkMOIDs7Btc20EouFc1tAbowCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D9%2582%25D9%2584-%25D8%25A7%25D9%2584%25D8%25B0%25D9%2587%25D8%25A8%25D9%258A.png",              
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"40",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"url",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "24",
+            "whatsname": "واتساب سيف",
+            "typ": "الذهبي | الوردي",
+            "update": "24/07/20",
+            "ver": "v8.30",
+            "pageurl": "saef",
+            "color": "#28a745",
+            "imgurl": "https://1.bp.blogspot.com/-mpO-rYmn2Zo/XzLnzUutdJI/AAAAAAAAAjQ/qR2dqB5WkCYtHx5v6SzH_H_d14mQ5P_cgCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B3%25D9%258A%25D9%2581-%25D8%25A7%25D9%2584%25D8%25B0%25D9%2587%25D8%25A8%25D9%258A.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"65",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"url",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "25",
+            "whatsname": "واتساب الكاسر",
+            "typ": "الذهبي | الازرق | الاحمر | الاسود",
+            "update": "17/08/2020",
+            "ver": "v8.40",
+            "pageurl": "kaser",
+            "color": "#20c997",
+            "imgurl": "https://lh3.googleusercontent.com/-Bht3HupsIMI/X0lPPXJoq7I/AAAAAAAAAsE/sSOTF1JuwWMWb3fEl567p8HID_YSQHEwQCLcBGAsYHQ/h120/kaser-whatsapp-gold.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"39",
+        "title_ar":"\u062a\u0635\u0641\u064a\u0627\u062a \u0623\u0645\u0645 \u0623\u0648\u0631\u0648\u0628\u0627",
+        "title_ar_sub":"",
+        "jdwel_slug":"euro-qualification",
+        "logo":"european-qualifiers-v2.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    
+			},
+        {
+            "id": "26",
+            "whatsname": "واتساب الملك",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "21/08/2020",
+            "ver": "v8.40",
+            "pageurl": "ki",
+            "color": "#17a2b8",
+            "imgurl": "https://1.bp.blogspot.com/-NMYun45yK5k/XzLnvrEeXRI/AAAAAAAAAig/NUnPxz4gHJEIYZOMhERF05FYHdx7ZSQ1ACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D9%2585%25D9%2584%25D9%2583.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"7",
+        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
+        "jdwel_slug":"omar",
+        "watsapp_date":"03/07/2020",
+        "ver": "v27",
+        "logo":"url",
+        "theme_color":"#63227d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+    
+			},
+        {
+            "id": "27",
+            "whatsname": "واتساب الملكة",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "21/08/2020",
+            "ver": "v8.40",
+            "pageurl": "qu",
+            "color": "#6c757d",
+            "imgurl": "https://1.bp.blogspot.com/-R_Ip0Ks-hKE/XzLnwMvo8eI/AAAAAAAAAio/HuvRZb29_xsXnmwBYWLx5UNrDKgIRCRCwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D9%2585%25D9%2584%25D9%2583%25D8%25A9.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+"comp_id":"77",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0645\u0635\u0631\u064a",
+        "title_ar_sub":"",
+        "jdwel_slug":"egyptian-super-cup",
+        "logo":"egyptian-association.png",
+        "theme_color":"#e2001a",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 0, \"has_scorers\": 0}"
+    
+			},
+        {
+            "id": "28",
+            "whatsname": "واتساب الأميرات الوردي",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/06/2020",
+            "ver": "v16",
+            "pageurl": "alamerat",
+            "color": "#6f42c1",
+            "imgurl": "https://1.bp.blogspot.com/-Op7fvC4xxmQ/XzLntt3FCGI/AAAAAAAAAiE/xulfCHVNikoSVxY-MBLFHK4ht5U5KtgpwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25A7%25D9%2585%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D9%2588%25D8%25B1%25D8%25AF%25D9%258A.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"8",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0645\u063a\u0631\u0628\u064a",
+        "title_ar_sub":"\u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0625\u062d\u062a\u0631\u0627\u0641\u064a\u0629",
+        "jdwel_slug":"moroccan-league-botola",
+        "logo":"moroccan-league.png",
+        "theme_color":"#e3402d",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    
+			},
+        {
+            "id": "29",
+            "whatsname": "واتساب ابو صدام الرفاعي",
+            "typ": "بلس1 | بلس2 | بلس3 | بلس4",            
+            "update": "27/07/2020",
+            "ver": "v",
+            "pageurl": "abo-sadam",
+            "color": "#dc3545",
+            "imgurl": "https://1.bp.blogspot.com/-cH0_o8cXMdo/XzLnxF_tBHI/AAAAAAAAAi0/f8CPJiyb2sgWdBn37K4gkLWt8IoibTKSwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A8%25D9%2584%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"9",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062c\u0632\u0627\u0626\u0631\u064a",
+        "title_ar_sub":"\u0627\u0644\u062f\u0631\u062c\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",
+        "jdwel_slug":"algerian-ligue-1",
+        "logo":"algerian-ligue-1.png",
+        "theme_color":"#4fa753",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    
+			},
+        {
+            "id": "30",
+            "whatsname": "واتساب ابو رعد",
+            "typ": "قيد الانشاء",
+            "update": "؟",
+            "ver": "؟",
+            "pageurl": "abo-raad",
+            "color": "#007bff",
+            "imgurl": "https://1.bp.blogspot.com/-tOf5Ig0EsA0/XzLnsYYBxoI/AAAAAAAAAh0/j9_TwAbHQMAy_Qc6_Q74jBQ7bKWYFrEDgCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25A8%25D9%2588-%25D8%25B1%25D8%25B9%25D8%25AF.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"78",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+        "title_ar_sub":"",
+        "jdwel_slug":"algeria-cup",
+        "logo":"algeria-cup.png",
+        "theme_color":"#22ae4b",
+        "type":"tournament",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 0}"
+    
+			},
+        {
+            "id": "31",
+            "whatsname": "واتساب العسكر",
+            "typ": "بديل الرسمي | الذهبي | الاحمر | الازرق | الزهري",
+            "update": "19/08/2020",
+            "ver": "v4.96",
+            "pageurl": "alaskar",
+            "color": "#e83e8c",
+            "imgurl": "https://lh3.googleusercontent.com/-TpP9bgBweG4/X1JX10OcqkI/AAAAAAAAAuo/tfHZuUy_sUg9woapoLWEauO0rYTPGKZTACLcBGAsYHQ/h120/alaskar.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"30",
+        "title_ar":"\u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0648\u0646\u0633\u064a",
+        "title_ar_sub":"\u0627\u0644\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0645\u062d\u062a\u0631\u0641\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",
+        "jdwel_slug":"tunisian-ligue-1",
+        "logo":"tunisian-ligue-1-v2.png",
+        "theme_color":"#e8422f",
+        "type":"league",
+        "featured":"1",
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+    
+			},
+        {
+            "id": "32",
+            "whatsname": "واتساب ايرو",
+            "typ": "نسخة واحدة",		
+            "update": "05/06/2020",
+            "ver": "v8.36",
+            "pageurl": "aero",
+            "color": "#007bff",
+            "imgurl": "https://1.bp.blogspot.com/-GYO3wB27rog/XzLntdUC1NI/AAAAAAAAAiA/pavBHycE5vUFgVee7sU-VwAXuuuzf8JMwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2583%25D8%25B3.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+
+        "comp_id":"46",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0633\u064a\u062f\u0627\u062a",
+        "title_ar_sub":null,
+        "jdwel_slug":"world-cup-women",
+        "logo":"world_football.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"0",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+    
+			},
+        {
+            "id": "33",
+            "whatsname": "واتساب هزام",
+            "typ": "الذهبي | البنفسجي | الاخضر",		
+            "update": "30/7/2020",
+            "ver": "v17",
+            "pageurl": "hazam",
+            "color": "#17a2b8",
+            "imgurl": "https://lh3.googleusercontent.com/-tP6Wwd4YJdY/X1JG-BFJXjI/AAAAAAAAAto/a-Ltu3deoTY1MRQ1kT2khCznUemewKubQCLcBGAsYHQ/h120/hazam-gold.png",
+			"ftyp":[
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              },
+              {"name":"",
+               "img":"",
+               "dlink":""
+              }],
+        "comp_id":"44",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0634\u0628\u0627\u0628",
+        "title_ar_sub":"\u062a\u062d\u062a 20 \u0633\u0646\u0629",
+        "jdwel_slug":"world-cup-u20",
+        "logo":"world_football.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"0",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+    
+			}	    
+    ]
+}
