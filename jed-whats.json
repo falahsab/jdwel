@@ -978,7 +978,7 @@
         "theme_color":"#e2001a",
         "type":"tournament",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 0, \"has_scorers\": 0}"
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
     
 			},
         {
@@ -1080,7 +1080,7 @@
         "theme_color":"#22ae4b",
         "type":"tournament",
         "featured":"1",
-        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 0, \"has_scorers\": 0}"
+        "current_season":"{\"the_season\": \"2019\/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
     
 			},
         {
@@ -1161,15 +1161,15 @@
             "color": "#17a2b8",
             "imgurl": "https://lh3.googleusercontent.com/-tP6Wwd4YJdY/X1JG-BFJXjI/AAAAAAAAAto/a-Ltu3deoTY1MRQ1kT2khCznUemewKubQCLcBGAsYHQ/h120/hazam-gold.png",
 			"ftyp":[
-              {"name":"",
+              {"name":"الذهبي",
                "img":"",
                "dlink":""
               },
-              {"name":"",
+              {"name":"البنفسجي",
                "img":"",
                "dlink":""
               },
-              {"name":"",
+              {"name":"الاخضر",
                "img":"",
                "dlink":""
               }],
@@ -1183,6 +1183,39 @@
         "featured":"0",
         "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
     
-			}	    
+			}و
+ {
+            "id": "34",
+            "whatsname": "واتساب ايرو",
+            "typ": "النسخة الاولى | النسخة الثانية | النسخة الثالثة",		
+            "update": "05/06/2020",
+            "ver": "v8.36",
+            "pageurl": "aero",
+            "color": "#006ede",
+            "imgurl": "https://1.bp.blogspot.com/-OAz4zNqJYok/XzLnwm9thyI/AAAAAAAAAis/uFSFInaAryoTQ90VepehMmeLqphFU44WACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%258A%25D8%25B1%25D9%2588.png",
+			"ftyp":[
+              {"name":"النسخة الاولى",
+               "img":"",
+               "dlink":"/p/last-update-aero-whatsapp-1.html"
+              },
+              {"name":"النسخة الثانية",
+               "img":"",
+               "dlink":"/p/last-update-aero-whatsapp-2.html"
+              },
+              {"name":"النسخة الثالثة",
+               "img":"",
+               "dlink":"/p/last-update-aero-whatsapp-3.html"
+              }],
+        "comp_id":"48",
+        "title_ar":"\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0634\u0628\u0627\u0628",
+        "title_ar_sub":"\u062a\u062d\u062a 20 \u0633\u0646\u0629",
+        "jdwel_slug":"world-cup-u20",
+        "logo":"world_football.png",
+        "theme_color":"#006ede",
+        "type":"tournament",
+        "featured":"0",
+        "current_season":"{\"the_season\": \"2019\", \"has_standings\": 1, \"has_scorers\": 1}"
+    
+			}	
     ]
 }
