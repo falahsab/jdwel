@@ -38,12 +38,6 @@
 
         ],
    
-        "title_ar":"واتساب ابو عرب",
-        "title_ar_sub":"الذهبي | الذهبي ايرو | الاحمر | الازرق",
-        "jdwel_slug":"gold",
-        "watsapp_date":"03/07/2020",
-        "ver": "v8.55",
-        "logo":"https://lh3.googleusercontent.com/-RDMRfm8eWKI/XzFTLOzkTII/AAAAAAAAAgg/He8XQOy6jn0VEE6goDtrQ3kwZqsttptwQCLcBGAsYHQ/h120/whatsapp-gold.png",
         "theme_color":"#5998dc",
         "type":"tournament",
         "featured":"1",
@@ -92,12 +86,6 @@
 
         ],
         
-        "title_ar":"واتساب عمر باذيب",
-        "title_ar_sub":"العنابي | الوردي | الازرق | الاخضر",
-        "jdwel_slug":"omar",
-        "watsapp_date":"03/07/2020",
-        "ver": "v27",
-        "logo":"https://lh3.googleusercontent.com/-Uttg5Gv1VDY/XzFov658sjI/AAAAAAAAAhQ/m0dk__FmNZ44uhzzxsId8N-SCJJWDoeowCLcBGAsYHQ/h120/ob-omar-whatsapp.png",
         "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
@@ -147,13 +135,6 @@
         ],
 
      
-        "title_ar":"جي بي واتساب",
-        "title_ar_sub":"جي بي | جي بي2 ",
-        "jdwel_slug":"gb",
-        "watsapp_date":"11/07/2020",
-        "ver": "v27",
-        "logo":"https://lh3.googleusercontent.com/-wi75pAVIJFU/XzFr6cR07BI/AAAAAAAAAhg/6uzkix8MwF8DmdVbESupWgRFJwqlIeOWQCLcBGAsYHQ/h120/gb-whatsapp.png",
-        "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
         "current_season":"{\"the_season\": \"\/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
@@ -200,12 +181,6 @@
 
         ],
        
-        "title_ar":"جي بي اتنفس هواك",
-        "title_ar_sub":"اتنفس هواك | اتنفس هواك بلس",
-        "jdwel_slug":"gb",
-        "watsapp_date":"11/07/2020",
-        "ver": "v8.35",
-        "logo":"https://1.bp.blogspot.com/-8Y76_tsLMxk/XzLnr0rTXsI/AAAAAAAAAhs/I1xk3fjb0rAYEpu9rqX8ziQMF19qoatiwCLcBGAsYHQ/s0/%25D8%25AC%25D9%258A-%25D8%25A8%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25AA%25D9%2586%25D9%2581%25D8%25B3-%25D9%2587%25D9%2588%25D8%25A7%25D9%2583.png",
         "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
@@ -253,12 +228,6 @@
 
         ],
         
-        "title_ar":"يو واتساب",
-        "title_ar_sub":"بديل الرسمي | النسخة2 | النسخة3 | جولد",
-        "jdwel_slug":"yo",
-        "watsapp_date":"23/08/2020",
-        "ver": "v9.35",
-        "logo":"https://lh3.googleusercontent.com/-IZZx5win1Eg/XzFhZGrDL4I/AAAAAAAAAgs/tmgRbDzuZoYoZVIt0qNUQ8pCAnbPE68vQCLcBGAsYHQ/h120/yo-whatsapp.png",
         "theme_color":"#63227d",
         "type":"league",
         "featured":"1",
